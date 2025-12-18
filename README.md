@@ -15,8 +15,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" /></a>
-  <a href="https://your-blog.dev"><img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=FF6B6B" /></a>
 </p>
 
 <!-- Profile Views Counter -->
@@ -94,22 +92,22 @@ current_focus:
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="50"/><br/>
+<h3>⚡</h3>
 <b>40%</b><br/>
 Faster Deployments
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/error.png" width="50"/><br/>
+<h3>✅</h3>
 <b>95%</b><br/>
 Reduced Manual Errors
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/savings.png" width="50"/><br/>
+<h3>💰</h3>
 <b>20%+</b><br/>
 Cost Reduction
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/heart-health.png" width="50"/><br/>
+<h3>❤️</h3>
 <b>99.9%</b><br/>
 System Uptime
 </td>
@@ -251,19 +249,19 @@ System Uptime
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/azure-1.png" width="80"/><br/>
+<h2>🎓</h2>
 <b>Azure Administrator</b><br/>
 <sub>Associate (AZ-104)</sub><br/>
 <a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/azure-1.png" width="80"/><br/>
+<h2>🎓</h2>
 <b>Azure Solutions Architect</b><br/>
 <sub>Expert (AZ-305)</sub><br/>
 <a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/azure-1.png" width="80"/><br/>
+<h2>🎓</h2>
 <b>Azure DevOps Engineer</b><br/>
 <sub>Expert (AZ-400)</sub><br/>
 <a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
@@ -370,44 +368,6 @@ timeline
 
 <br/>
 
-<!-- GitHub Stats -->
-<div align="center">
-
-## 📈 GITHUB STATISTICS
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
-
-<details>
-<summary><b>📊 Language Statistics</b></summary>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="45%" />
-
-</details>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <!-- Project Highlights -->
 <div align="center">
 
@@ -496,79 +456,72 @@ timeline
 
 <br/>
 
-<!-- Expertise Matrix -->
+<!-- Skills & Proficiency -->
 <div align="center">
 
-## 💡 EXPERTISE MATRIX
+## 💡 SKILLS & PROFICIENCY
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**CLOUD PLATFORMS**
-```
-AWS         ████████████████░░░░  80%
-Azure       ████████████████████ 100%
-GCP         ███████████████░░░░░  75%
-```
+### ☁️ Cloud & Infrastructure
+<p align="left">
+<img src="https://img.shields.io/badge/Azure-Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Advanced-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-Proficient-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-Expert-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/ARM_Templates-Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
 
-</td>
-<td>
+### 🔄 CI/CD & DevOps
+<p align="left">
+<img src="https://img.shields.io/badge/Azure_DevOps-Expert-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-Advanced-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-Advanced-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitOps-Proficient-FC6D26?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-**CI/CD TOOLS**
-```
-Azure DevOps ████████████████████ 100%
-Jenkins      ██████████████████░░  90%
-GitHub Actions ████████████████░░  85%
-```
-
-</td>
-</tr>
-<tr>
-<td>
-
-**INFRASTRUCTURE AS CODE**
-```
-Terraform    ████████████████████ 100%
-ARM Templates ███████████████████  95%
-Policy-as-Code ████████████████░░  85%
-```
+### 💻 Scripting & Automation
+<p align="left">
+<img src="https://img.shields.io/badge/PowerShell-Expert-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_CLI-Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
 </td>
-<td>
+<td width="50%">
 
-**MONITORING**
-```
-Datadog      ████████████████████ 100%
-ELK Stack    ██████████████████░░  90%
-Site 24x7    ██████████████████░░  90%
-```
+### 📊 Monitoring & Observability
+<p align="left">
+<img src="https://img.shields.io/badge/Datadog-Expert-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/ELK_Stack-Advanced-005571?style=flat-square&logo=elasticstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Site_24x7-Advanced-FF6C37?style=flat-square&logo=site24x7&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-Proficient-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td>
+### 🗄️ Database Management
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MS_SQL-Advanced-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-Proficient-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-**SCRIPTING**
-```
-PowerShell   ████████████████████ 100%
-Bash/Shell   ███████████████████░  95%
-Azure CLI    ████████████████████ 100%
-```
-
-</td>
-<td>
-
-**DATABASES**
-```
-MongoDB      ██████████████████░░  90%
-MS-SQL       █████████████████░░░  85%
-PostgreSQL   ██████████████████░░  90%
-```
+### 🔐 Security & Compliance
+<p align="left">
+<img src="https://img.shields.io/badge/SOC2-Certified-00C853?style=flat-square&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO_27001-Certified-0066CC?style=flat-square&logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/GDPR-Compliant-0066FF?style=flat-square&logo=gdpr&logoColor=white" />
+<img src="https://img.shields.io/badge/DevSecOps-Proficient-FF6B6B?style=flat-square&logo=security&logoColor=white" />
+</p>
 
 </td>
 </tr>
 </table>
+
+**Skill Levels:** 🌟 Expert - Deep expertise, mentoring capability | 🔹 Advanced - Production experience, best practices | 🔸 Proficient - Working knowledge, continuous learning
 
 </div>
 
@@ -671,9 +624,9 @@ PostgreSQL   ██████████████████░░  90%
 
 ### 🤝 CONTRIBUTING
 - [ ] Open-source projects
-- [ ] Technical blog posts
+- [ ] Technical documentation
 - [ ] Team mentorship
-- [ ] Conference talks
+- [ ] Knowledge sharing
 - [ ] Community engagement
 
 </td>
@@ -686,66 +639,27 @@ PostgreSQL   ██████████████████░░  90%
 
 <br/>
 
-<!-- Blog & Articles -->
-<div align="center">
-
-## ✍️ LATEST BLOG POSTS
-
-<!-- BLOG-POST-LIST:START -->
-- 🔄 [Multi-Cloud CI/CD: Best Practices from Production](https://your-blog.dev)
-- 💰 [Cloud Cost Optimization: 20% Savings Strategy](https://your-blog.dev)
-- 🔐 [Implementing SOC2 Compliance with Policy-as-Code](https://your-blog.dev)
-- 🌍 [Building Active-Active DR Across Azure and GCP](https://your-blog.dev)
-- 📊 [Datadog + ELK: Comprehensive Monitoring Setup](https://your-blog.dev)
-<!-- BLOG-POST-LIST:END -->
-
-[➡️ **Read More Articles**](https://your-blog.dev)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <!-- Contact -->
 <div align="center">
 
 ## 📫 LET'S CONNECT
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<br/><br/>
+<br/>
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <a href="mailto:your.email@example.com">
-<img src="https://img.icons8.com/fluency/96/000000/email-open.png" width="60"/><br/>
+<h3>📧</h3>
 <b>Email</b><br/>
 <sub>your.email@example.com</sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <a href="https://linkedin.com/in/your-profile">
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60"/><br/>
+<h3>💼</h3>
 <b>LinkedIn</b><br/>
 <sub>Connect with me</sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://twitter.com/yourhandle">
-<img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="60"/><br/>
-<b>Twitter</b><br/>
-<sub>@yourhandle</sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://your-blog.dev">
-<img src="https://img.icons8.com/fluency/96/000000/blog.png" width="60"/><br/>
-<b>Blog</b><br/>
-<sub>Read my articles</sub>
 </a>
 </td>
 </tr>
@@ -837,21 +751,6 @@ const devOpsTeamLead = {
 ### 💭 DAILY INSPIRATION
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-
-## 🏆 GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
