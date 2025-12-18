@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DevOps%20Engineer&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Building%20Infrastructure%20•%20Automating%20Everything%20•%20Scaling%20Systems&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DevOps%20Team%20Lead&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Multi-Cloud%20Infrastructure%20•%20CI/CD%20Automation%20•%20Security%20%26%20Compliance&descAlignY=51&descAlign=50" />
 
 <br/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Senior+DevOps+Engineer;Cloud+Architecture+Specialist;CI%2FCD+Pipeline+Expert;Infrastructure+Automation+Pro;6%2B+Years+of+Experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=DevOps+Team+Lead;Multi-Cloud+Architecture+Specialist;CI%2FCD+%26+Automation+Expert;Security+%26+Compliance+Professional;6%2B+Years+of+Experience" alt="Typing SVG" /></a>
 
 <br/>
 <br/>
@@ -19,7 +19,7 @@
   <a href="https://your-blog.dev"><img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=FF6B6B" /></a>
 </p>
 
-<!-- Profile Views Counter with Animation -->
+<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
@@ -30,53 +30,55 @@
 
 <br/>
 
-<!-- About Section with Custom Design -->
+<!-- About Section -->
 <div align="center">
 
-## 🎯 ABOUT ME
+## 👨‍💻 PROFESSIONAL SUMMARY
+
+</div>
+
+> **DevOps Team Lead** with over **6 years of experience** delivering reliable and secure infrastructure solutions across multiple cloud platforms. Proven expertise in designing and maintaining CI/CD pipelines, automating infrastructure with IaC, and integrating security & compliance into deployment workflows. Skilled in monitoring, incident response, cloud cost optimization, and leading cross-functional teams to deliver scalable, high-availability systems.
 
 <table>
 <tr>
 <td width="50%">
 
 ```yaml
-name: Your Full Name
-role: Senior DevOps Engineer
-company: Tech Corp
-location: San Francisco, CA
+name: Your Name
+role: DevOps Team Lead
+location: India
 experience: 6+ years
-specialization:
-  - Cloud Infrastructure
-  - Kubernetes Orchestration  
-  - CI/CD Automation
+current_company: ABC Company
+
+expertise:
+  - Multi-Cloud Architecture
+  - CI/CD Pipeline Design
   - Infrastructure as Code
-  - Site Reliability Engineering
+  - Security & Compliance
+  - Team Leadership
 ```
 
 </td>
 <td width="50%">
 
 ```yaml
-philosophy: |
-  "Automate everything,
-   Monitor everything,
-   Break things to make
-   them unbreakable."
+specialization:
+  - AWS, Azure, GCP deployments
+  - Jenkins, Azure DevOps automation
+  - Terraform, ARM templates
+  - SOC2, ISO 27001, GDPR
+  - Cost optimization strategies
+  - Incident management & monitoring
 
 current_focus:
-  - Multi-cloud architectures
-  - GitOps workflows
-  - Platform engineering
-  - Cost optimization
-
-availability: Open for consulting
+  - DevSecOps integration
+  - Multi-region DR strategies
+  - Cloud-native security
 ```
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
@@ -84,27 +86,27 @@ availability: Open for consulting
 
 <br/>
 
-<!-- Key Metrics Section -->
+<!-- Key Metrics -->
 <div align="center">
 
-## 📊 CAREER HIGHLIGHTS
+## 📊 CAREER IMPACT & ACHIEVEMENTS
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/><br/>
-<b>500+</b><br/>
-Deployments Automated
+<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="50"/><br/>
+<b>40%</b><br/>
+Faster Deployments
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/error.png" width="50"/><br/>
+<b>95%</b><br/>
+Reduced Manual Errors
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/savings.png" width="50"/><br/>
-<b>$200K+</b><br/>
-Annual Cost Savings
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="50"/><br/>
-<b>85%</b><br/>
-Faster Deployment
+<b>20%+</b><br/>
+Cost Reduction
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/heart-health.png" width="50"/><br/>
@@ -122,10 +124,10 @@ System Uptime
 
 <br/>
 
-<!-- Technology Stack with Visual Organization -->
+<!-- Core Competencies -->
 <div align="center">
 
-## 🛠️ TECHNOLOGY ARSENAL
+## 🛠️ CORE COMPETENCIES & TECHNOLOGY STACK
 
 </div>
 
@@ -133,111 +135,106 @@ System Uptime
 <summary><b>☁️ CLOUD PLATFORMS</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,digitalocean&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+  <img src="https://img.shields.io/badge/Multi--Cloud-Expert-orange?style=for-the-badge&logo=icloud&logoColor=white" />
 </p>
+
+**Primary Clouds:** AWS • Azure • GCP  
+**Services:** EC2, S3, Lambda, Azure VMs, App Services, GCP Compute, Cloud Functions
 </details>
 
 <details open>
-<summary><b>🐳 CONTAINERS & ORCHESTRATION</b></summary>
+<summary><b>🔄 CI/CD & AUTOMATION TOOLS</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
-  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
-  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
-  <img src="https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🔄 CI/CD & AUTOMATION</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,gitlab,github,githubactions&theme=dark" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=jenkins,github,azure&theme=dark" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </p>
+
+**Tools:** Jenkins • Azure DevOps • GitHub Actions • Bitbucket Pipelines  
+**Focus:** Automated deployments, testing, security scanning, release management
 </details>
 
 <details open>
 <summary><b>📜 INFRASTRUCTURE AS CODE</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
-  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crossplane-F05032?style=for-the-badge&logo=crossplane&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" />
+  <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Policy_as_Code-00ADD8?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
+
+**Tools:** Terraform • ARM Templates • Azure Bicep  
+**Approach:** Standardized provisioning, version-controlled infrastructure, policy enforcement
+</details>
+
+<details open>
+<summary><b>💻 SCRIPTING & AUTOMATION</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powershell,bash,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Azure_CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+**Languages:** PowerShell • Bash/Shell • Python (for automation)  
+**CLI Tools:** Azure CLI • AWS CLI • gcloud
+</details>
+
+<details open>
+<summary><b>🗄️ DATABASE ADMINISTRATION</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
+  <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+**Databases:** MongoDB • MS-SQL • MySQL • PostgreSQL  
+**Skills:** Backup automation, recovery processes, performance tuning, cluster optimization
 </details>
 
 <details open>
 <summary><b>📊 MONITORING & OBSERVABILITY</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
   <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafanaloki&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Site24x7-FF6C37?style=for-the-badge&logo=site24x7&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
-</details>
 
-<details open>
-<summary><b>🗄️ DATABASES & STORAGE</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-</p>
+**Tools:** Datadog • ELK Stack (Elasticsearch, Logstash, Kibana) • Site 24x7 • Cloudflare Analytics  
+**Capabilities:** Centralized monitoring, alerting, dashboards, incident detection, proactive management
 </details>
 
 <details open>
 <summary><b>🔐 SECURITY & COMPLIANCE</b></summary>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Falco-00B4E0?style=for-the-badge&logo=falco&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aqua_Security-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC2-Compliant-success?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO_27001-Certified-blue?style=for-the-badge&logo=iso&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDPR-Compliant-informational?style=for-the-badge&logo=gdpr&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_WAF-Protected-orange?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
+
+**Standards:** SOC2 • ISO 27001 • GDPR best practices  
+**Tools:** Cloudflare WAF • Custom Firewall Rules • DevSecOps SAST/DAST  
+**Focus:** Policy-as-code, certificate management, security hardening
 </details>
 
 <details open>
-<summary><b>💻 PROGRAMMING & SCRIPTING</b></summary>
+<summary><b>🔧 ADDITIONAL SKILLS</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,bash,powershell,javascript&theme=dark" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cost_Optimization-00A82D?style=for-the-badge&logo=money&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Front_Door-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/CDN_Management-FF6C37?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
-</details>
 
-<details open>
-<summary><b>🔧 TOOLS & PLATFORMS</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,nginx,vim,vscode&theme=dark" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
-</p>
+**Skills:** Office 365 Administration • Cost Optimization • Cloud Networking • CDN Management • Disaster Recovery
 </details>
 
 <br/>
@@ -246,50 +243,30 @@ System Uptime
 
 <br/>
 
-<!-- Certifications with Visual Design -->
+<!-- Certifications -->
 <div align="center">
 
-## 🏆 PROFESSIONAL CERTIFICATIONS
+## 🏆 MICROSOFT CERTIFICATIONS
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="80"/><br/>
-<b>AWS Solutions Architect</b><br/>
-<sub>Associate | 2023</sub><br/>
-<a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+<img src="https://img.icons8.com/fluency/96/000000/azure-1.png" width="80"/><br/>
+<b>Azure Administrator</b><br/>
+<sub>Associate (AZ-104)</sub><br/>
+<a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/kubernetes.png" width="80"/><br/>
-<b>Certified Kubernetes Admin</b><br/>
-<sub>CKA | 2023</sub><br/>
-<a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<img src="https://img.icons8.com/fluency/96/000000/azure-1.png" width="80"/><br/>
+<b>Azure Solutions Architect</b><br/>
+<sub>Expert (AZ-305)</sub><br/>
+<a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/azure-1.png" width="80"/><br/>
 <b>Azure DevOps Engineer</b><br/>
-<sub>Expert | 2022</sub><br/>
+<sub>Expert (AZ-400)</sub><br/>
 <a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/terraform.png" width="80"/><br/>
-<b>HashiCorp Terraform</b><br/>
-<sub>Associate | 2022</sub><br/>
-<a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-7B42BC?style=flat-square&logo=terraform&logoColor=white"/></a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/docker.png" width="80"/><br/>
-<b>Docker Certified</b><br/>
-<sub>Associate | 2021</sub><br/>
-<a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/linux.png" width="80"/><br/>
-<b>Linux Professional</b><br/>
-<sub>LPIC-1 | 2020</sub><br/>
-<a href="your-credly-link"><img src="https://img.shields.io/badge/Verify-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
 </td>
 </tr>
 </table>
@@ -312,74 +289,78 @@ System Uptime
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#238636', 'primaryTextColor':'#fff', 'primaryBorderColor':'#238636', 'lineColor':'#58a6ff', 'secondaryColor':'#1f6feb', 'tertiaryColor':'#161b22'}}}%%
 timeline
-    title DevOps Career Timeline
+    title DevOps Career Timeline - 6 Years Journey
     2019 : Junior DevOps Engineer
-         : Started career in cloud infrastructure
-         : Learned AWS, Docker, CI/CD basics
+         : Cloud infrastructure basics
+         : CI/CD pipeline setup
+         : Learned AWS, Azure fundamentals
     2020 : DevOps Engineer
          : Implemented IaC with Terraform
-         : Built automated pipelines
-         : First Kubernetes deployment
+         : Database administration
+         : Monitoring & alerting setup
     2021 : Senior DevOps Engineer
-         : Led team of 3 engineers
-         : Migrated 50+ services to K8s
-         : Achieved 99.9% uptime
+         : Multi-cloud deployments
+         : Security & compliance focus
+         : Cost optimization initiatives
     2022 : Senior DevOps Engineer
-         : Multi-cloud architecture design
-         : GitOps implementation
-         : Cost optimization projects
-    2023-Present : Senior DevOps/SRE
-                 : Platform engineering initiatives
-                 : Mentoring junior engineers
-                 : Speaking at tech conferences
+         : Led migration projects
+         : DevSecOps integration
+         : Disaster recovery planning
+    2023-2024 : DevOps Team Lead
+              : Leading cross-functional teams
+              : Multi-region DR architecture
+              : Enterprise compliance automation
+              : CDN & security optimization
 ```
 
 <br/>
 
-<details>
-<summary><b>🔹 Senior DevOps Engineer @ Tech Corp</b> | Jan 2022 - Present</summary>
+<details open>
+<summary><b>🔹 ABC Company — DevOps Team Lead</b> | Current Role</summary>
 <br/>
 
-**Key Achievements:**
-- 🚀 Led migration of 100+ microservices to Kubernetes, reducing infrastructure costs by 40%
-- ⚡ Implemented GitOps workflow with ArgoCD, increasing deployment frequency from weekly to daily
-- 🔒 Established DevSecOps practices, reducing critical vulnerabilities by 85%
-- 📊 Built comprehensive observability stack (Prometheus + Grafana + Loki)
-- 👥 Mentored team of 5 junior engineers, 2 promoted to mid-level
-- 💰 Saved $200K+ annually through cloud cost optimization initiatives
+### Key Responsibilities & Achievements:
 
-**Technologies:** AWS, EKS, Terraform, ArgoCD, Jenkins, Python, Go, Prometheus, Grafana
+**Leadership & Team Management:**
+- 👥 Lead a cross-functional DevOps team managing multi-cloud deployments across AWS, Azure, and GCP
+- 🎯 Mentor junior engineers and drive DevOps best practices across the organization
+- 🤝 Collaborate with developers to create scalable, secure infrastructure solutions
 
-</details>
+**CI/CD & Automation:**
+- ⚡ Designed and implemented automated CI/CD pipelines using Jenkins, Azure DevOps, and GitHub Actions
+- 📉 Reduced deployment time by **40%** through automation and optimization
+- 🔄 Managed CI/CD workflows, integrating automated testing and deployment for microservices architecture
+- 🚀 Developed and maintained deployment pipelines for multiple environments
 
-<details>
-<summary><b>🔹 DevOps Engineer @ StartupXYZ</b> | Jun 2019 - Dec 2021</summary>
-<br/>
+**Infrastructure as Code:**
+- 📜 Implemented Infrastructure as Code using Terraform and ARM templates
+- ✅ Standardized provisioning and reduced manual errors by **95%**
+- 🏗️ Created policy-as-code rules to enforce GDPR/SOC2 requirements in Azure and AWS
 
-**Key Achievements:**
-- 🔧 Automated CI/CD pipelines using GitLab CI, reducing deployment time by 85%
-- ☁️ Managed hybrid infrastructure across AWS and Azure
-- 📦 Containerized 30+ legacy applications using Docker
-- 🛡️ Implemented infrastructure security scanning (Trivy + SonarQube)
-- 📈 Maintained 99.95% uptime for production systems
-- 🏗️ Built disaster recovery strategy with automated backups
+**Monitoring & Observability:**
+- 📊 Established centralized monitoring and alerting with Datadog, ELK, and Site 24x7
+- 🎯 Improved incident detection by **30%** with proactive monitoring
+- 📈 Implemented monitoring solutions and dashboards to enhance application uptime
+- ✨ Designed end-to-end monitoring solutions ensuring **99.9% uptime** and proactive incident management
 
-**Technologies:** AWS, Azure, Docker, GitLab CI, Terraform, Ansible, Python
+**Security & Compliance:**
+- 🔒 Ensured infrastructure security and compliance aligned with SOC2, ISO 27001, and GDPR standards
+- 🛡️ Configured Cloudflare WAF, custom firewall rules, and certificate renewals to enhance platform security
+- 🔐 Integrated DevSecOps SAST/DAST for accelerating security remediation cycles
+- 🌐 Implemented global CDN optimization with Azure Front Door, region-based rule sets, edge security, and wildcard SSL certificates for SaaS applications
 
-</details>
+**Cloud Management & Cost Optimization:**
+- 💰 Drove cloud cost optimization initiatives saving over **20%** annually
+- 📊 Led multi-cloud cost optimization strategies leveraging reserved instances, rightsizing, and monitoring unused resources
+- ☁️ Migrated on-prem workloads to Azure, leveraging PaaS/IaaS for cost and performance optimization
 
-<details>
-<summary><b>🔹 Junior DevOps Engineer @ TechStart</b> | Jan 2019 - May 2019</summary>
-<br/>
+**Database & Disaster Recovery:**
+- 🗄️ Automated database backup and recovery processes for MongoDB, PostgreSQL, and MySQL
+- 🎯 Tuned database clusters, improving query performance by **25%**
+- 🌍 Architected multi-region disaster recovery with active-active & active-passive DR setup across Azure and GCP
+- 📋 Assisted in cloud architecture planning and disaster recovery strategies
 
-**Key Achievements:**
-- 🎓 Learned Infrastructure as Code principles with Terraform
-- 🔄 Assisted in CI/CD pipeline setup and maintenance
-- 📚 Gained hands-on experience with AWS core services
-- 🤝 Collaborated with dev teams to optimize deployment processes
-- 📝 Documented infrastructure setup and runbooks
-
-**Technologies:** AWS, Jenkins, Docker, Bash, Linux
+**Technologies:** AWS, Azure, GCP, Jenkins, Azure DevOps, GitHub Actions, Terraform, ARM Templates, Datadog, ELK Stack, Site 24x7, Cloudflare, PowerShell, Azure CLI, MongoDB, PostgreSQL, MySQL
 
 </details>
 
@@ -389,7 +370,7 @@ timeline
 
 <br/>
 
-<!-- GitHub Stats Section with Custom Design -->
+<!-- GitHub Stats -->
 <div align="center">
 
 ## 📈 GITHUB STATISTICS
@@ -412,7 +393,7 @@ timeline
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
 
 <details>
-<summary><b>📊 More Statistics</b></summary>
+<summary><b>📊 Language Statistics</b></summary>
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="45%" />
@@ -427,46 +408,277 @@ timeline
 
 <br/>
 
-<!-- Featured Projects -->
+<!-- Project Highlights -->
 <div align="center">
 
-## 🚀 FEATURED PROJECTS
+## 🚀 PROJECT HIGHLIGHTS
+
+</div>
 
 <table>
 <tr>
 <td width="50%">
 
-[![K8s Automation](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=k8s-deployment-automation&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/YOUR_USERNAME/k8s-deployment-automation)
+### 🌍 Multi-Region Disaster Recovery
+**Architected enterprise-grade DR solution**
+- ✅ Active-active & active-passive DR setup
+- ☁️ Across Azure and GCP platforms
+- 🎯 Automated failover mechanisms
+- 📊 Regular DR testing and validation
+- 🔄 Cross-region data replication
 
 </td>
 <td width="50%">
 
-[![Terraform Modules](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=terraform-aws-modules&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/YOUR_USERNAME/terraform-aws-modules)
+### 🔐 Proactive Security Hardening
+**Comprehensive security implementation**
+- 🛡️ Cloudflare WAF configuration
+- 🔥 Custom firewall rules
+- 🔒 Automated certificate renewals
+- 🚨 Security monitoring and alerting
+- ✨ Zero-trust architecture principles
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![CI/CD Templates](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=cicd-pipeline-templates&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/YOUR_USERNAME/cicd-pipeline-templates)
+### 📋 Enterprise Compliance Automation
+**Policy-as-code implementation**
+- 📜 GDPR compliance automation
+- ✅ SOC2 requirement enforcement
+- 🔐 Automated compliance checks
+- 📊 Compliance reporting dashboards
+- 🎯 Multi-cloud policy management
 
 </td>
 <td width="50%">
 
-[![Monitoring Stack](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=observability-stack&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/YOUR_USERNAME/observability-stack)
+### 🗄️ Database Optimization Project
+**Performance tuning and optimization**
+- ⚡ Query performance improved by 25%
+- 🔄 Automated backup strategies
+- 💾 Cluster optimization
+- 📈 Monitoring and alerting
+- 🎯 High availability setup
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔒 DevSecOps SAST/DAST Integration
+**Security in CI/CD pipelines**
+- 🛡️ Automated security scanning
+- 🚀 Accelerated remediation cycles
+- 📊 Security metrics and reporting
+- 🔍 Vulnerability detection
+- ✨ Shift-left security approach
+
+</td>
+<td width="50%">
+
+### 🌐 Global CDN Optimization
+**Edge performance and security**
+- 🚀 Azure Front Door implementation
+- 🌍 Region-based rule sets
+- 🔒 Edge security configuration
+- 📜 Wildcard SSL certificates
+- 🎯 SaaS application optimization
 
 </td>
 </tr>
 </table>
 
-### 🌟 Other Notable Projects
+<br/>
 
-- **[GitOps-ArgoCD-Demo](https://github.com/YOUR_USERNAME/gitops-argocd)** - Complete GitOps workflow with ArgoCD ⭐ 250
-- **[AWS-Cost-Optimizer](https://github.com/YOUR_USERNAME/aws-cost-optimizer)** - Automated cost optimization tool ⭐ 180
-- **[K8s-Security-Scanner](https://github.com/YOUR_USERNAME/k8s-security)** - Security scanning for Kubernetes clusters ⭐ 160
-- **[Multi-Cloud-IaC](https://github.com/YOUR_USERNAME/multicloud-iac)** - Infrastructure as Code for AWS, Azure, GCP ⭐ 140
+---
+
+<br/>
+
+<!-- Expertise Matrix -->
+<div align="center">
+
+## 💡 EXPERTISE MATRIX
+
+<table>
+<tr>
+<td>
+
+**CLOUD PLATFORMS**
+```
+AWS         ████████████████░░░░  80%
+Azure       ████████████████████ 100%
+GCP         ███████████████░░░░░  75%
+```
+
+</td>
+<td>
+
+**CI/CD TOOLS**
+```
+Azure DevOps ████████████████████ 100%
+Jenkins      ██████████████████░░  90%
+GitHub Actions ████████████████░░  85%
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+**INFRASTRUCTURE AS CODE**
+```
+Terraform    ████████████████████ 100%
+ARM Templates ███████████████████  95%
+Policy-as-Code ████████████████░░  85%
+```
+
+</td>
+<td>
+
+**MONITORING**
+```
+Datadog      ████████████████████ 100%
+ELK Stack    ██████████████████░░  90%
+Site 24x7    ██████████████████░░  90%
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+**SCRIPTING**
+```
+PowerShell   ████████████████████ 100%
+Bash/Shell   ███████████████████░  95%
+Azure CLI    ████████████████████ 100%
+```
+
+</td>
+<td>
+
+**DATABASES**
+```
+MongoDB      ██████████████████░░  90%
+MS-SQL       █████████████████░░░  85%
+PostgreSQL   ██████████████████░░  90%
+```
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Key Achievements -->
+<div align="center">
+
+## 🎯 QUANTIFIED ACHIEVEMENTS
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 PERFORMANCE & EFFICIENCY
+```diff
++ Reduced deployment time by 40%
++ Reduced manual errors by 95%
++ Improved incident detection by 30%
++ Achieved 99.9% system uptime
++ Enhanced query performance by 25%
+```
+
+### 🔒 SECURITY & COMPLIANCE
+```diff
++ SOC2 compliance achieved
++ ISO 27001 standards implemented
++ GDPR best practices enforced
++ Cloudflare WAF configured
++ DevSecOps SAST/DAST integrated
+```
+
+</td>
+<td width="50%">
+
+### 💰 COST OPTIMIZATION
+```diff
++ Saved 20%+ on cloud costs annually
++ Implemented reserved instances strategy
++ Rightsizing initiatives deployed
++ Unused resource monitoring automated
++ Multi-cloud cost optimization
+```
+
+### 🏗️ INFRASTRUCTURE
+```diff
++ Multi-region DR architecture
++ Active-active & active-passive DR
++ Migrated on-prem to Azure
++ Global CDN optimization
++ Policy-as-code implementation
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Skills Progress -->
+<div align="center">
+
+## 📚 CONTINUOUS LEARNING & GOALS
+
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+### 🎓 LEARNING
+- [ ] AWS Solutions Architect
+- [ ] Kubernetes (CKA)
+- [ ] HashiCorp Vault
+- [ ] Service Mesh (Istio)
+- [ ] Infrastructure Security
+
+</td>
+<td width="33%">
+
+### 🚀 BUILDING
+- [ ] Multi-cloud IaC modules
+- [ ] Cost optimization tools
+- [ ] Security automation
+- [ ] DR playbooks
+- [ ] Monitoring templates
+
+</td>
+<td width="33%">
+
+### 🤝 CONTRIBUTING
+- [ ] Open-source projects
+- [ ] Technical blog posts
+- [ ] Team mentorship
+- [ ] Conference talks
+- [ ] Community engagement
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -480,11 +692,11 @@ timeline
 ## ✍️ LATEST BLOG POSTS
 
 <!-- BLOG-POST-LIST:START -->
-- 🔄 [Building Production-Ready GitOps Workflows with ArgoCD](https://your-blog.dev/gitops-argocd)
-- 🎯 [Kubernetes Cost Optimization: 10 Proven Strategies](https://your-blog.dev/k8s-cost-optimization)
-- 🔐 [Implementing Zero-Trust Security in Kubernetes](https://your-blog.dev/zero-trust-k8s)
-- ☁️ [Multi-Cloud Architecture: Lessons from the Trenches](https://your-blog.dev/multicloud-architecture)
-- 🚀 [From CI to CD: Building Reliable Deployment Pipelines](https://your-blog.dev/cicd-pipelines)
+- 🔄 [Multi-Cloud CI/CD: Best Practices from Production](https://your-blog.dev)
+- 💰 [Cloud Cost Optimization: 20% Savings Strategy](https://your-blog.dev)
+- 🔐 [Implementing SOC2 Compliance with Policy-as-Code](https://your-blog.dev)
+- 🌍 [Building Active-Active DR Across Azure and GCP](https://your-blog.dev)
+- 📊 [Datadog + ELK: Comprehensive Monitoring Setup](https://your-blog.dev)
 <!-- BLOG-POST-LIST:END -->
 
 [➡️ **Read More Articles**](https://your-blog.dev)
@@ -497,242 +709,7 @@ timeline
 
 <br/>
 
-<!-- Skills Matrix -->
-<div align="center">
-
-## 💡 EXPERTISE MATRIX
-
-<table>
-<tr>
-<td>
-
-**CLOUD PLATFORMS**
-```
-AWS         ████████████████████ 100%
-Azure       █████████████████░░░  85%
-GCP         ████████████████░░░░  80%
-```
-
-</td>
-<td>
-
-**ORCHESTRATION**
-```
-Kubernetes  ████████████████████ 100%
-Docker      ████████████████████ 100%
-Helm        ██████████████████░░  90%
-```
-
-</td>
-</tr>
-<tr>
-<td>
-
-**AUTOMATION**
-```
-Terraform   ████████████████████ 100%
-Ansible     ██████████████████░░  90%
-Jenkins     █████████████████░░░  85%
-```
-
-</td>
-<td>
-
-**MONITORING**
-```
-Prometheus  ████████████████████ 100%
-Grafana     ███████████████████░  95%
-ELK Stack   ██████████████████░░  90%
-```
-
-</td>
-</tr>
-<tr>
-<td>
-
-**PROGRAMMING**
-```
-Python      ████████████████████ 100%
-Bash        ████████████████████ 100%
-Go          ████████████████░░░░  80%
-```
-
-</td>
-<td>
-
-**DATABASES**
-```
-PostgreSQL  ██████████████████░░  90%
-MongoDB     █████████████████░░░  85%
-Redis       ████████████████░░░░  80%
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Achievements -->
-<div align="center">
-
-## 🎯 KEY ACHIEVEMENTS & IMPACT
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 💰 COST OPTIMIZATION
-```diff
-+ Reduced cloud spend by $200K+ annually
-+ Implemented right-sizing recommendations
-+ Automated resource cleanup processes
-+ Negotiated better cloud pricing contracts
-```
-
-### 🚀 PERFORMANCE
-```diff
-+ Reduced deployment time from 4h to 15min
-+ Improved system response time by 60%
-+ Achieved 99.95% uptime SLA
-+ Zero downtime deployments
-```
-
-</td>
-<td width="50%">
-
-### 🔒 SECURITY
-```diff
-+ Reduced critical vulnerabilities by 85%
-+ Implemented automated security scanning
-+ Achieved SOC2 compliance
-+ Zero security incidents in production
-```
-
-### 📈 AUTOMATION
-```diff
-+ Automated 90% of manual tasks
-+ Built self-service deployment platform
-+ Created 50+ reusable IaC modules
-+ Reduced MTTR from 2h to 15min
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<!-- 2025 Goals -->
-<div align="center">
-
-## 🎯 2025 ROADMAP
-
-</div>
-
-<table>
-<tr>
-<td width="33%">
-
-### 📚 LEARNING
-- [ ] CKAD Certification
-- [ ] AWS Advanced Networking
-- [ ] eBPF & Cilium
-- [ ] Rust for Systems
-- [ ] WebAssembly
-
-</td>
-<td width="33%">
-
-### 🚀 BUILDING
-- [ ] Open-source IaC library
-- [ ] Cost optimization platform
-- [ ] K8s security scanner
-- [ ] DevOps learning content
-- [ ] Conference talks (3+)
-
-</td>
-<td width="33%">
-
-### 🤝 CONTRIBUTING
-- [ ] 10+ OSS contributions
-- [ ] Mentor 5+ engineers
-- [ ] Write 24 blog posts
-- [ ] YouTube tutorials
-- [ ] Community workshops
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Speaking & Community -->
-<div align="center">
-
-## 🎤 SPEAKING & COMMUNITY
-
-**Conference Talks:**
-- 🎯 KubeCon 2023 - "Scaling Kubernetes: Real-World Challenges"
-- ☁️ AWS re:Invent 2022 - "Multi-Region Disaster Recovery Patterns"
-- 🔧 DevOpsDays 2021 - "From Manual to Fully Automated Deployments"
-
-**Community Involvement:**
-- 📝 Regular contributor to CNCF projects
-- 👥 Organizer of local DevOps meetup (500+ members)
-- 🎓 Mentor on ADPList and MentorCruise
-- 💬 Active on DevOps-focused Discord/Slack communities
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Fun Stats -->
-<div align="center">
-
-## 🎮 CODING ACTIVITY
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<details>
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Contact Section with Style -->
+<!-- Contact -->
 <div align="center">
 
 ## 📫 LET'S CONNECT
@@ -782,7 +759,7 @@ Redis       ████████████████░░░░  80%
 <img src="https://img.shields.io/badge/Consulting-Available-success?style=for-the-badge&logo=handshake&logoColor=white" />
 <img src="https://img.shields.io/badge/Freelance-Open-blue?style=for-the-badge&logo=freelancer&logoColor=white" />
 <img src="https://img.shields.io/badge/Mentorship-Active-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/Speaking-Interested-red?style=for-the-badge&logo=microphone&logoColor=white" />
+<img src="https://img.shields.io/badge/Collaborations-Interested-red?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 </div>
@@ -796,39 +773,53 @@ Redis       ████████████████░░░░  80%
 <!-- Fun Section -->
 <div align="center">
 
-## 🎪 FUN FACTS ABOUT ME
+## 🎪 MORE ABOUT ME
 
 ```javascript
-const devOpsEngineer = {
+const devOpsTeamLead = {
   name: "Your Name",
-  pronouns: "he/him",
-  code: ["Python", "Go", "Bash", "YAML"],
-  tools: ["Kubernetes", "Terraform", "Docker", "AWS"],
-  architecture: ["Microservices", "Event-Driven", "Serverless"],
+  role: "DevOps Team Lead",
+  location: "India",
   
-  motto: "Automate everything, monitor everything, break things safely",
-  
-  funFacts: {
-    coffee: "☕ Coffee-driven development",
-    hobbies: ["🏃 Marathon running", "🎸 Playing guitar", "📚 Reading sci-fi"],
-    superpower: "Turning 'it works on my machine' into 'it works everywhere'",
-    weekendProject: "Building a smart home automation system",
-    favoriteCommand: "kubectl get pods --all-namespaces",
-    dreamJob: "Working at CNCF on cloud-native tools"
+  expertise: {
+    clouds: ["AWS", "Azure", "GCP"],
+    cicd: ["Jenkins", "Azure DevOps", "GitHub Actions"],
+    iac: ["Terraform", "ARM Templates"],
+    monitoring: ["Datadog", "ELK Stack", "Site 24x7"],
+    scripting: ["PowerShell", "Bash", "Azure CLI"]
   },
   
-  askMeAbout: [
-    "Kubernetes at scale",
-    "Multi-cloud strategies",
-    "Cost optimization techniques",
-    "Building reliable CI/CD pipelines",
-    "DevOps best practices"
+  certifications: ["AZ-104", "AZ-305", "AZ-400"],
+  
+  achievements: {
+    deploymentSpeed: "40% faster",
+    errorReduction: "95% less manual errors",
+    costSavings: "20%+ annually",
+    uptime: "99.9%"
+  },
+  
+  currentFocus: [
+    "Multi-cloud architecture",
+    "DevSecOps integration",
+    "Cost optimization",
+    "Disaster recovery",
+    "Team leadership"
   ],
   
-  currentlyLearning: ["Rust", "eBPF", "Service Mesh", "Platform Engineering"],
+  askMeAbout: [
+    "Multi-cloud deployments",
+    "CI/CD best practices",
+    "Infrastructure as Code",
+    "Cloud cost optimization",
+    "Security & compliance",
+    "Disaster recovery strategies"
+  ],
   
-  timezone: "America/Los_Angeles",
-  availability: "UTC -8 | Usually online 9 AM - 6 PM PST"
+  funFacts: {
+    motto: "Automate Everything, Secure Everything, Monitor Everything",
+    coffee: "☕ Powered by coffee and automation",
+    availability: "Always ready to discuss DevOps challenges"
+  }
 };
 ```
 
@@ -855,26 +846,7 @@ const devOpsEngineer = {
 
 <br/>
 
-<!-- Support Section -->
-<div align="center">
-
-## ☕ SUPPORT MY WORK
-
-If you find my open-source projects helpful, consider buying me a coffee!
-
-<a href="https://www.buymeacoffee.com/yourname">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourname&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Trophy Section -->
+<!-- Trophies -->
 <div align="center">
 
 ## 🏆 GITHUB TROPHIES
@@ -896,14 +868,14 @@ If you find my open-source projects helpful, consider buying me a coffee!
 
 <br/>
 
-**⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) with ❤️ and ☕**
+**⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) | DevOps Team Lead | Multi-Cloud Specialist**
 
-<sub>Last updated: December 2024</sub>
+<sub>Leading teams • Building infrastructure • Automating everything</sub>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Maintained-Yes-success.svg?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-blue.svg?style=for-the-badge" />
 
 </div>
