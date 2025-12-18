@@ -211,8 +211,8 @@ System Uptime
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/SOC2-Compliant-success?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISO_27001-Certified-blue?style=for-the-badge&logo=iso&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDPR-Compliant-informational?style=for-the-badge&logo=gdpr&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO_27001-Certified-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDPR-Compliant-informational?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_WAF-Protected-orange?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
@@ -675,67 +675,6 @@ timeline
 <img src="https://img.shields.io/badge/Mentorship-Active-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/Collaborations-Interested-red?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Fun Section -->
-<div align="center">
-
-## 🎪 MORE ABOUT ME
-
-```javascript
-const devOpsTeamLead = {
-  name: "Your Name",
-  role: "DevOps Team Lead",
-  location: "India",
-  
-  expertise: {
-    clouds: ["AWS", "Azure", "GCP"],
-    cicd: ["Jenkins", "Azure DevOps", "GitHub Actions"],
-    iac: ["Terraform", "ARM Templates"],
-    monitoring: ["Datadog", "ELK Stack", "Site 24x7"],
-    scripting: ["PowerShell", "Bash", "Azure CLI"]
-  },
-  
-  certifications: ["AZ-104", "AZ-305", "AZ-400"],
-  
-  achievements: {
-    deploymentSpeed: "40% faster",
-    errorReduction: "95% less manual errors",
-    costSavings: "20%+ annually",
-    uptime: "99.9%"
-  },
-  
-  currentFocus: [
-    "Multi-cloud architecture",
-    "DevSecOps integration",
-    "Cost optimization",
-    "Disaster recovery",
-    "Team leadership"
-  ],
-  
-  askMeAbout: [
-    "Multi-cloud deployments",
-    "CI/CD best practices",
-    "Infrastructure as Code",
-    "Cloud cost optimization",
-    "Security & compliance",
-    "Disaster recovery strategies"
-  ],
-  
-  funFacts: {
-    motto: "Automate Everything, Secure Everything, Monitor Everything",
-    coffee: "☕ Powered by coffee and automation",
-    availability: "Always ready to discuss DevOps challenges"
-  }
-};
-```
 
 </div>
 
